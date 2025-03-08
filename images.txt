@@ -1,1 +1,2 @@
 mtphotos/mt-photos:latest
+youshandefeiyang/allinone
